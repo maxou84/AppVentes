@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16443299898",
+    "firebase_url": "https://appvente-9d3c2.firebaseio.com",
+    "project_id": "appvente-9d3c2",
+    "storage_bucket": "appvente-9d3c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16443299898:android:1b8fbe4a034a8f1a27fd03",
+        "android_client_info": {
+          "package_name": "com.example.appvente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16443299898-d9rfvqkh6viifst5ajpc78svkonddtbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appvente",
+            "certificate_hash": "6472c8946535637bcd16ec23c4045f426f83077f"
+          }
+        },
+        {
+          "client_id": "16443299898-mqr4gvr9jqi0k73limp0a44pgb4pjokt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmcf4U-R8HO_vd4L2TqZSsJojRFYaqGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16443299898-mqr4gvr9jqi0k73limp0a44pgb4pjokt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
